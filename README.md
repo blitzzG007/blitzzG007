@@ -24,9 +24,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=blitzzG007&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=blitzzG007&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blitzzG007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ## 🎧 Spotify
 <div align="center">
   <a href="https://open.spotify.com/user/315kke6jd4hwxjrcpedxwalhmmzu">
